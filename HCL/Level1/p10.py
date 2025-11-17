@@ -4,3 +4,6 @@ def print_3_dig():
     y = temp % 10
     print(f"res : {y}")
 print_3_dig()
+
+# Enter 3 dig no : 569
+# res : 6

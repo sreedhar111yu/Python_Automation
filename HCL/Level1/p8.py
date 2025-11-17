@@ -5,3 +5,6 @@ def print_one_dig_3in():
     print(f"res : {y}")
 
 print_one_dig_3in()
+
+# Enter 3rd no : 569
+# res : 9

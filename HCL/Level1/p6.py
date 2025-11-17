@@ -3,3 +3,7 @@ def print_one_digit():
     y = x % 10
     print(f"res : {y}")
 print_one_digit()
+
+
+# Enter no : 45
+# res : 5

@@ -3,3 +3,6 @@ def divide():
     y = x//6
     print(f"Res : {y}")
 divide()
+
+# Enter  Number : 45
+# Res : 7

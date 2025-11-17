@@ -4,3 +4,6 @@ def print_hundred_dig():
     print(f"res : {y}")
 
 print_hundred_dig()
+
+# enter three dig no : 456
+# res : 4
