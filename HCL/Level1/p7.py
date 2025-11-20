@@ -5,4 +5,4 @@ def  print_tens_dig():
 print_tens_dig()
 
 #  enter two dig number : 45
-# Res : 4
+# Res : 4 
