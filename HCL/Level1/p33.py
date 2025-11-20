@@ -20,3 +20,11 @@ def main():
     res =sum_of_dig(x,y)
     print(res)
 main() 
+
+# enter two dig no x :56
+# enter two dig no y :78
+# 15
+
+# enter two dig no x :14
+# enter two dig no y :65
+# 11
